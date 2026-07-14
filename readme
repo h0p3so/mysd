@@ -1,0 +1,14 @@
+	
+	mysd: Modelo y sistemas de datos
+
+ABOUT
+	Databases project focused on the design and implementation of a real
+	e-commerce system (only database)
+
+RUN
+	Get some Oracle SQL editor and run the .sql files in the appropriated
+	order
+
+AUTHOR
+	Jonathan Palomares Castañeda (PalomaresJonatan13)
+	Juan Diego Patiño Muñoz (h0p3so)
